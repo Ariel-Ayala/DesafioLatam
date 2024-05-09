@@ -1,12 +1,13 @@
 body {
-  background: #342E37;
+  background: #000000;
+
   }
 
 .container {
   padding-top: 30px;
 } 
   
-h1 {
+h1,h2 {
   color: #fff;
   font-family: 'Space Mono', monospace;
   font-size: 3rem;
